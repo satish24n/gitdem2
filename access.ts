@@ -27,7 +27,7 @@ function validateCar(car:vehicle)
 
 }
 
-let bmw = 
+let bmw =
 {
     color : "red",
     engine:100,
@@ -39,3 +39,6 @@ let bmw =
 
 console.log(bmw.color);
 console.log(bmw.engine);
+
+//this is new code --- May 171110
+console.log("new line added");
