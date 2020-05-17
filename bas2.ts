@@ -3,3 +3,8 @@ let age: number = 37;
 
 console.log("Age:" +age);
 console.log("FullName: "+fullName);
+
+
+//base to base
+//back to future
+//something is wrong in the statement
